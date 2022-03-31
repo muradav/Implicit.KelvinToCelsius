@@ -20,7 +20,7 @@ namespace KelvinToCelsius.Models
 
         public static implicit operator Celsius(Kelvin kelvin)
         {
-            return new Celsius(kelvin.Degree-273);
+            return new Celsius(kelvin.Degree -Convert.ToSingle(273.15));
         }
     }
 }
