@@ -7,10 +7,9 @@ namespace KelvinToCelsius
     {
         static void Main(string[] args)
         {
-            //Console.Write("Enter the amount of Kelvin: ");
-            //int celsius.value = Convert.ToInt32(Console.ReadLine());
+            
             Console.Write("Enter the amount of Kelvin: ");
-            int input = int.Parse(Console.ReadLine());
+            float input = float.Parse(Console.ReadLine());
 
             Kelvin kelvin = new Kelvin(input);            
             Celsius celsius = kelvin;
