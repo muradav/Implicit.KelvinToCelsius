@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\Implicit.KelvinToCelsius\KelvinToCelsius\KelvinToCelsius\bin\Debug\netcoreapp3.1\KelvinToCelsius.exe
+C:\Users\HP\Desktop\Development\Implicit.KelvinToCelsius\KelvinToCelsius\KelvinToCelsius\bin\Debug\netcoreapp3.1\KelvinToCelsius.deps.json
+C:\Users\HP\Desktop\Development\Implicit.KelvinToCelsius\KelvinToCelsius\KelvinToCelsius\bin\Debug\netcoreapp3.1\KelvinToCelsius.runtimeconfig.json
+C:\Users\HP\Desktop\Development\Implicit.KelvinToCelsius\KelvinToCelsius\KelvinToCelsius\bin\Debug\netcoreapp3.1\KelvinToCelsius.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\Implicit.KelvinToCelsius\KelvinToCelsius\KelvinToCelsius\bin\Debug\netcoreapp3.1\KelvinToCelsius.dll
+C:\Users\HP\Desktop\Development\Implicit.KelvinToCelsius\KelvinToCelsius\KelvinToCelsius\bin\Debug\netcoreapp3.1\KelvinToCelsius.pdb
+C:\Users\HP\Desktop\Development\Implicit.KelvinToCelsius\KelvinToCelsius\KelvinToCelsius\obj\Debug\netcoreapp3.1\KelvinToCelsius.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\Implicit.KelvinToCelsius\KelvinToCelsius\KelvinToCelsius\obj\Debug\netcoreapp3.1\KelvinToCelsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\Implicit.KelvinToCelsius\KelvinToCelsius\KelvinToCelsius\obj\Debug\netcoreapp3.1\KelvinToCelsius.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\Implicit.KelvinToCelsius\KelvinToCelsius\KelvinToCelsius\obj\Debug\netcoreapp3.1\KelvinToCelsius.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\Implicit.KelvinToCelsius\KelvinToCelsius\KelvinToCelsius\obj\Debug\netcoreapp3.1\KelvinToCelsius.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\Implicit.KelvinToCelsius\KelvinToCelsius\KelvinToCelsius\obj\Debug\netcoreapp3.1\KelvinToCelsius.dll
+C:\Users\HP\Desktop\Development\Implicit.KelvinToCelsius\KelvinToCelsius\KelvinToCelsius\obj\Debug\netcoreapp3.1\KelvinToCelsius.pdb
+C:\Users\HP\Desktop\Development\Implicit.KelvinToCelsius\KelvinToCelsius\KelvinToCelsius\obj\Debug\netcoreapp3.1\KelvinToCelsius.genruntimeconfig.cache
